@@ -1,6 +1,9 @@
 # healthcare_appointments_and_retention_datase_for_care_centers
 This dataset contains detailed records of customer interactions, service usage, and retention outcomes for a healthcare medical service center. It is designed for use in both general dashboard analytics and customer churn analysis.
 
+View this article for more details on how to synthesize this dataset using prompt engineering methods like Few Shot Learning, COSTAR etc. 
+
+https://medium.com/@sandeepkumarvsk10/the-power-of-prompting-leveraging-few-shot-learning-and-llm-to-generate-synthetic-healthcare-data-f615fd5043e5
 
 **Notice**: This is a dataset generated synthetically using Large Language Models and may not reflect real-world data. While every effort has been made to ensure the accuracy and quality of the dataset, it is important to note that the dataset is for research, educational, or developmental purposes only.
 
